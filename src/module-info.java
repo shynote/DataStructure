@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tomshy
+ *
+ */
+module Stack {
+}
